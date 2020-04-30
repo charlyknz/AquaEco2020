@@ -27,7 +27,7 @@ session 5: Nutrient and Temperature effects
 session 6: Daphnia and DOM experiment
            daphnia_solutions.R uses data_daphnia.csv 
            the original Data are stored in bep_experiment_3_waage.csv and were collected during the BEP practical course in February 2020
-           Daphnia_additional_Data.R and Daphnia_ANOVA.R contain furthter inspirations, what to do with these data
+           Daten.R and Daphnia_ANOVA.R contain furthter inspirations, what to do with these data
            using Daphnia_survival.R and the Daphnia_survival.csv it is possible to conduct a survival analysis.
            
 Additional session: Introducing the grammar of graphics 
