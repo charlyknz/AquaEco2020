@@ -1,0 +1,161 @@
+﻿sample name;treatment;strain;replicate;anzahl_daphnia;sampling;total_dry_weight
+vorher A1;O;DE;1;31;0;0,2
+vorher A2;O;DE;2;20;0;0,274
+vorher A3;O;DE;3;19;0;0,313
+vorher A4;O;DE;4;21;0;0,262
+vorher A5;O;DE;5;27;0;0,251
+vorher A1;O;BE;1;31;0;0,2
+vorher A2;O;BE;2;20;0;0,274
+vorher A3;O;BE;3;19;0;0,313
+vorher A4;O;BE;4;21;0;0,262
+vorher A5;O;BE;5;27;0;0,251
+vorher A1;O;NO;1;31;0;0,2
+vorher A2;O;NO;2;20;0;0,274
+vorher A3;O;NO;3;19;0;0,313
+vorher A4;O;NO;4;21;0;0,262
+vorher A5;O;NO;5;27;0;0,251
+vorher A1;O;FI;1;31;0;0,2
+vorher A2;O;FI;2;20;0;0,274
+vorher A3;O;FI;3;19;0;0,313
+vorher A4;O;FI;4;21;0;0,262
+vorher A5;O;FI;5;27;0;0,251
+vorher A1;L;DE;1;31;0;0,2
+vorher A2;L;DE;2;20;0;0,274
+vorher A3;L;DE;3;19;0;0,313
+vorher A4;L;DE;4;21;0;0,262
+vorher A5;L;DE;5;27;0;0,251
+vorher A1;L;BE;1;31;0;0,2
+vorher A2;L;BE;2;20;0;0,274
+vorher A3;L;BE;3;19;0;0,313
+vorher A4;L;BE;4;21;0;0,262
+vorher A5;L;BE;5;27;0;0,251
+vorher A1;L;NO;1;31;0;0,2
+vorher A2;L;NO;2;20;0;0,274
+vorher A3;L;NO;3;19;0;0,313
+vorher A4;L;NO;4;21;0;0,262
+vorher A5;L;NO;5;27;0;0,251
+vorher A1;L;FI;1;31;0;0,2
+vorher A2;L;FI;2;20;0;0,274
+vorher A3;L;FI;3;19;0;0,313
+vorher A4;L;FI;4;21;0;0,262
+vorher A5;L;FI;5;27;0;0,251
+vorher A1;I;DE;1;31;0;0,2
+vorher A2;I;DE;2;20;0;0,274
+vorher A3;I;DE;3;19;0;0,313
+vorher A4;I;DE;4;21;0;0,262
+vorher A5;I;DE;5;27;0;0,251
+vorher A1;I;BE;1;31;0;0,2
+vorher A2;I;BE;2;20;0;0,274
+vorher A3;I;BE;3;19;0;0,313
+vorher A4;I;BE;4;21;0;0,262
+vorher A5;I;BE;5;27;0;0,251
+vorher A1;I;NO;1;31;0;0,2
+vorher A2;I;NO;2;20;0;0,274
+vorher A3;I;NO;3;19;0;0,313
+vorher A4;I;NO;4;21;0;0,262
+vorher A5;I;NO;5;27;0;0,251
+vorher A1;I;FI;1;31;0;0,2
+vorher A2;I;FI;2;20;0;0,274
+vorher A3;I;FI;3;19;0;0,313
+vorher A4;I;FI;4;21;0;0,262
+vorher A5;I;FI;5;27;0;0,251
+vorher A1;H;DE;1;31;0;0,2
+vorher A2;H;DE;2;20;0;0,274
+vorher A3;H;DE;3;19;0;0,313
+vorher A4;H;DE;4;21;0;0,262
+vorher A5;H;DE;5;27;0;0,251
+vorher A1;H;BE;1;31;0;0,2
+vorher A2;H;BE;2;20;0;0,274
+vorher A3;H;BE;3;19;0;0,313
+vorher A4;H;BE;4;21;0;0,262
+vorher A5;H;BE;5;27;0;0,251
+vorher A1;H;NO;1;31;0;0,2
+vorher A2;H;NO;2;20;0;0,274
+vorher A3;H;NO;3;19;0;0,313
+vorher A4;H;NO;4;21;0;0,262
+vorher A5;H;NO;5;27;0;0,251
+vorher A1;H;FI;1;31;0;0,2
+vorher A2;H;FI;2;20;0;0,274
+vorher A3;H;FI;3;19;0;0,313
+vorher A4;H;FI;4;21;0;0,262
+vorher A5;H;FI;5;27;0;0,251
+Daphnien_I_A1;O;NO;1;5;8;0,652
+Daphnien_I_A2;O;NO;2;4;8;0,476
+Daphnien_I_A3;O;NO;3;5;8;0,459
+Daphnien_I_A4;O;NO;4;3;8;0,472
+Daphnien_I_A5;O;NO;5;4;8;0,445
+Daphnien_I_A6;L;NO;1;5;8;0,862
+Daphnien_I_B1;L;NO;2;4;8;0,588
+Daphnien_I_B2;L;NO;3;5;8;0,747
+Daphnien_I_B3;L;NO;4;5;8;1,027
+Daphnien_I_B4;L;NO;5;4;8;0,674
+Daphnien_I_B5;I;NO;1;4;8;0,62
+Daphnien_I_C1;I;NO;2;4;8;0,774
+Daphnien_I_C2;I;NO;3;5;8;0,948
+Daphnien_I_C3;I;NO;4;4;8;0,849
+Daphnien_I_C4;I;NO;5;4;8;0,751
+Daphnien_I_C5;H;NO;1;5;8;1,071
+Daphnien_I_C6;H;NO;2;5;8;0,953
+Daphnien_I_D1;H;NO;3;4;8;0,748
+Daphnien_I_D2;H;NO;4;5;8;0,933
+Daphnien_I_D3;H;NO;5;4;8;1,007
+Daphnien_II_A1;O;BE;1;5;8;0,95
+Daphnien_II_A2;O;BE;2;5;8;0,931
+Daphnien_II_A3;O;BE;3;5;8;0,752
+Daphnien_II_A4;O;BE;4;5;8;0,916
+Daphnien_II_A5;O;BE;5;4;8;0,829
+Daphnien_II_A6;L;BE;1;5;8;1,013
+Daphnien_II_B1;L;BE;2;5;8;1,037
+Daphnien_II_B2;L;BE;3;5;8;1,03
+Daphnien_II_B3;L;BE;4;5;8;0,971
+Daphnien_II_B4;L;BE;5;5;8;1,005
+Daphnien_II_B5;I;BE;1;5;8;1,029
+Daphnien_II_B6;I;BE;2;5;8;0,992
+Daphnien_II_C1;I;BE;3;5;8;1,024
+Daphnien_II_C2;I;BE;4;5;8;1,057
+Daphnien_II_C3;I;BE;5;5;8;1,306
+Daphnien_II_C4;H;BE;1;5;8;1,043
+Daphnien_II_C5;H;BE;2;5;8;0,992
+Daphnien_II_C6;H;BE;3;5;8;1,044
+Daphnien_II_D1;H;BE;4;5;8;1,119
+Daphnien_II_D2;H;BE;5;5;8;1,059
+Daphnien_III_A1;O;FI;1;5;8;0,514
+Daphnien_III_A2;O;FI;2;5;8;0,673
+Daphnien_III_A3;O;FI;3;5;8;0,565
+Daphnien_III_A4;O;FI;4;5;8;0,527
+Daphnien_III_A5;O;FI;5;4;8;0,323
+Daphnien_III_A6;L;FI;1;4;8;0,544
+Daphnien_III_B1;L;FI;2;5;8;0,441
+Daphnien_III_B2;L;FI;3;3;8;0,389
+Daphnien_III_B3;L;FI;4;4;8;0,259
+Daphnien_III_B4;L;FI;5;3;8;0,481
+Daphnien_III_B5;I;FI;1;4;8;0,469
+Daphnien_III_B6;I;FI;2;5;8;0,582
+Daphnien_III_C1;I;FI;3;3;8;0,528
+Daphnien_III_C2;I;FI;4;5;8;0,398
+Daphnien_III_C3;I;FI;5;3;8;0,45
+Daphnien_III_C4;H;FI;1;5;8;0,465
+Daphnien_III_C5;H;FI;2;5;8;0,535
+Daphnien_III_C6;H;FI;3;4;8;0,613
+Daphnien_III_D1;H;FI;4;4;8;0,599
+Daphnien_III_D2;H;FI;5;4;8;0,512
+Daphnien_III_D3;H;DE;4;5;8;0,615
+Daphnien_III_D4;H;DE;5;5;8;0,685
+Daphnien_IV_A1;O;DE;1;4;8;0,389
+Daphnien_IV_A2;O;DE;2;5;8;0,519
+Daphnien_IV_A3;O;DE;3;4;8;0,423
+Daphnien_IV_A4;O;DE;4;4;8;0,286
+Daphnien_IV_A5;O;DE;5;3;8;0,359
+Daphnien_IV_A6;L;DE;1;5;8;0,43
+Daphnien_IV_B1;L;DE;2;5;8;0,503
+Daphnien_IV_B2;L;DE;3;5;8;0,497
+Daphnien_IV_B3;L;DE;4;4;8;0,39
+Daphnien_IV_B4;L;DE;5;5;8;0,508
+Daphnien_IV_B5;I;DE;1;5;8;0,602
+Daphnien_IV_B6;I;DE;2;5;8;0,574
+Daphnien_IV_C1;I;DE;3;5;8;0,583
+Daphnien_IV_C2;I;DE;4;5;8;0,576
+Daphnien_IV_C3;I;DE;5;5;8;0,62
+Daphnien_IV_C4;H;DE;1;5;8;0,635
+Daphnien_IV_C5;H;DE;2;5;8;0,596
+Daphnien_IV_C6;H;DE;3;5;8;0,639
