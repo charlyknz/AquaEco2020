@@ -3,6 +3,7 @@ Data and R files used in the Aquatic Ecology course 2020 at the University of Ol
 All files are in German language
 
 The course was comprised of 6 sessions
+
 session 1: General introduction into Rstudio
            
            introducing R (matrix, vector, df, variables,values and formats) *Intro_Teil1_lsg.R*
